@@ -7,3 +7,11 @@ never ever store passwords because its all public
 never 
 store API credentials 
 store credit cards
+
+# what you learned
+
+terminology
+-clone
+-repo=repository
+-staging commiting
+
